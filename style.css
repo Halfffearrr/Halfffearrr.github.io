@@ -31,7 +31,8 @@ section{
     padding:20px;
     font-family: 'myfont',Arial,sans-serif;
     margin:20px auto;
-    max-width:800px;
+    width:90%;
+    max-width:1200px;
     border-radius: 5px;
     text-indent: 2em;
 }
@@ -50,7 +51,8 @@ section p{
 }
 
 #gallery img{
-    max-width: 80%;
+    width:80%;
+    max-width: 100%;
     height: auto;
     position: relative;
     display:block;
