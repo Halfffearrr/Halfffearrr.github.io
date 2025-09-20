@@ -50,6 +50,8 @@ section p{
 }
 
 #gallery img{
+    max-width: 80%;
+    height: auto;
     position: relative;
     display:block;
     margin: 20px auto;
